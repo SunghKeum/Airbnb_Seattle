@@ -33,7 +33,7 @@ The data for this project was gathered from [insideairbnb](http://insideairbnb.c
 - High number of listings did not exactly translate to higher average price per night.
 
 <h2>📁 Files</h2>
-- <a href='/QSN Retail.xlsx' target="_blank">Data</a> is an Excel file containing raw data about our customers, transactions, suppliers, products, etc.
-- <a href='/Analytical Business Questions.docx' target="_blank">Business Questions</a> that our team has come up. We use SQL to answer these questions.
-- <a href='/Final Project TeamProject QSNRetail ITM304 v1.1 (1).ppt' target="_blankl">PowerPoint Presentation</a> showing SQL code, results, and charts 
-- <a href='VIEW code.pdf' target="_blankl">VIEW table</a> is a denormalized, aggregated table built using SQL JOINS to eliminate redundant coding when writing SQL code for answering Business Questions.
+
+- <a href='/airbnb_seattle.csv' target="_blank">Data</a> is a csv file containing raw data about airbnb listings in Seattle.
+- <a href='/MSBA320_FinalProject_SungKeum.html' target="_blank">Python codes</a> executed for the analysis of this project.  
+- <a href='/MSBA320_FinalProject_SungKeum.pdf' target="_blankl">Paper</a> describing data, analysis, hypothesis testing, and conclusion in greater detail.
