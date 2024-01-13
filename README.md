@@ -35,5 +35,5 @@ The data for this project was gathered from [insideairbnb](http://insideairbnb.c
 <h2>📁 Files</h2>
 
 - <a href='/airbnb_seattle.csv' target="_blank">Data</a> is a csv file containing raw data about airbnb listings in Seattle.
-- <a href='/MSBA320_FinalProject_SungKeum.html' target="_blank">Python codes</a> executed for the analysis of this project.  
+- <a href='/MSBA320_FinalProject_AirbnbSeattle.ipynb' target="_blank">Python codes</a> executed for the analysis of this project.  
 - <a href='/MSBA320_FinalProject_SungKeum.pdf' target="_blankl">Paper</a> describing data, analysis, hypothesis testing, and conclusion in greater detail.
