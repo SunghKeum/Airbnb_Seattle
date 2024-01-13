@@ -6,7 +6,7 @@ This is a project where I perform a statistical analysis into Airbnb listings, s
 
 <h2>📔 About dataset</h2>
 
-The data for this project was gathered from [insideairbnb](http://insideairbnb.com/). Insideairbnb is a company that provides data on Airbnb listings in various cities around the world. The data is comprised of listings in June of 2023 with 6636 records (listings) and 18 attributes, describing price per night, host name, number of reviews, minimum nights required, neighborhood of the listings, to name a few. You can download the data <a href='/airbnb_seattle' target="_blank">here</a>. Below is a full description of the dataset.
+The data for this project was gathered from [insideairbnb](http://insideairbnb.com/). Insideairbnb is a company that provides data on Airbnb listings in various cities around the world. The data is comprised of listings in June of 2023 with 6636 records (listings) and 18 attributes, describing price per night, host name, number of reviews, minimum nights required, neighborhood of the listings, to name a few. You can download the data <a href='/airbnb_seattle.csv' target="_blank">here</a>. Below is a full description of the dataset.
 
 ![image](https://github.com/SunghKeum/Airbnb_Seattle/assets/117948003/9610ac73-2de8-4355-a817-9a57ac48e8ef)
 
